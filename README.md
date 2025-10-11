@@ -2,7 +2,6 @@
 <html lang="pt-br">
       <html>
           <head>
-            primeira página
             <meta charset="UTF-8">
           <link rel="stylesheet" href="main.css">
              <link rel="stylesheet" href="vormon.cours"
