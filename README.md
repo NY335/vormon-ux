@@ -29,7 +29,7 @@
 Veja o desenho abaixo:
 
 
-<img width="768" height="768" alt="1000014074" src="https://github.com/user-attachments/assets/b17ee424-730f-4aec-9177-bea5bd7e3027" />
+<img width="1700" height="1200" alt="1000014074" src="https://github.com/user-attachments/assets/b17ee424-730f-4aec-9177-bea5bd7e3027" />
 
  
 
@@ -37,14 +37,14 @@ Veja o desenho abaixo:
 use metade de uma circunferência (Raio) para posicionar o lado em que a cabeça do personagem vira e a posição dos olhos.
 
 veja a musculatura do crânio:
-<img width="800" height="690" alt="5597ea5b-8480-447e-9929-d65971a91070" src="https://github.com/user-attachments/assets/38bfb860-2820-49b2-a3f6-ab242164d375" />
+<img width="1700" height="1200" alt="5597ea5b-8480-447e-9929-d65971a91070" src="https://github.com/user-attachments/assets/38bfb860-2820-49b2-a3f6-ab242164d375" />
 
 
-<img width="800" height="690" alt="622a37ae7089b021ab481e8b80d80892" src="https://github.com/user-attachments/assets/2104e34f-7f4e-4fee-8eaf-9513fbf631e3" />
+<img width="1700" height="1200" alt="622a37ae7089b021ab481e8b80d80892" src="https://github.com/user-attachments/assets/2104e34f-7f4e-4fee-8eaf-9513fbf631e3" />
 
 
-<img width="1700" height="1700"
-src="img/0a7928d70712fffff36e8ae838bb18c7.png">
+![1000014938](https://github.com/user-attachments/assets/17729161-7fb2-4650-b41d-6969039e2a34)
+
 
 Faça desenhos semelhantes à estes, decore a anatomia corporal não só a humana como de animais, se você decorar facilitará para sombreados, luz, etc.
 
