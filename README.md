@@ -3,17 +3,19 @@
       <html>
           <head>
             <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1.0">
+            <title> Vormon </title>
           <link rel="stylesheet" href="main.css">
              <link rel="stylesheet" href="vormon.cours"
         </head>
         <body>
             <h1>Vormon</h1>
-            • este é um curso de artes para iniciantes e intermediários.
+<h1>  • este é um curso de artes para iniciantes e intermediários.
                você irá aprender técnicas de artes,acupuntura chinesa e anatomia.
             • primeiro vamos estudar a acupuntura com uma imagem que está logo abaixo
               lembre-se de anotar e praticar partes a mais do curso se você estiver com alguma      dificuldade, siga as instruções para um melhor desempenho,e pratique arte/desenho quando puder.
 
-            -Ordem cronológica do curso:acupuntura, anatomia, técnicas de arte,arte em prática,"tabela",e as cores como elas funcionam. 
+-Ordem cronológica do curso:acupuntura, anatomia, técnicas de arte,arte em prática,"tabela",e as cores como elas funcionam. 
 <p>aviso:o curso durará 5 dias (mínimo) com a duração de 61 dias (máximo),ao final receberá o relatório de atividades e o certificado do curso,A seguir damos início ao curso.
                
 
@@ -41,7 +43,8 @@ veja a musculatura do crânio:
 <img width="800" height="690" alt="622a37ae7089b021ab481e8b80d80892" src="https://github.com/user-attachments/assets/2104e34f-7f4e-4fee-8eaf-9513fbf631e3" />
 
 
-![desenhos-de-anatomia-do-cao-atlas-para-colorir-3](https://github.com/user-attachments/assets/e5f4b37f-1dec-4605-9ccb-54988875af98)
+<img width="1700" height="1700"
+src="img/0a7928d70712fffff36e8ae838bb18c7.png">
 
 Faça desenhos semelhantes à estes, decore a anatomia corporal não só a humana como de animais, se você decorar facilitará para sombreados, luz, etc.
 
@@ -153,6 +156,8 @@ está é a tabela mencionada no início do curso, ela é uma tabela de cores que
 
 
 <img width="721" height="721" alt="Figura-8-Roda-dos-Sentimentos" src="https://github.com/user-attachments/assets/f59225a1-8d2a-473c-bb37-cfbc32ff0855" />
+
+</h1>
 
 
 
