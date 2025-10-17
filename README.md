@@ -4,7 +4,6 @@
           <head>
             <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-            <title> Vormon </title>
           <link rel="stylesheet" href="main.css">
              <link rel="stylesheet" href="vormon.cours"
         </head>
@@ -156,7 +155,7 @@ está é a tabela mencionada no início do curso, ela é uma tabela de cores que
 
 
 <img width="721" height="721" alt="Figura-8-Roda-dos-Sentimentos" src="https://github.com/user-attachments/assets/f59225a1-8d2a-473c-bb37-cfbc32ff0855" />
-
+ Fim do E-book de Vormon Curso.
 </h1>
 
 
